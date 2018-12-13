@@ -1,0 +1,4 @@
+#Thu Dec 13 09:54:47 CST 2018
+base.0=/Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
