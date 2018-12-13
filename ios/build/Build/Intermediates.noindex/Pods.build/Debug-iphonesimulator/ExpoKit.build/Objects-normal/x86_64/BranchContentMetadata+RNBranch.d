@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/Api/Standalone/Branch/BranchContentMetadata+RNBranch.m \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/Api/Standalone/Branch/BranchContentMetadata+RNBranch.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/Branch.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BNCCallbacks.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BNCCommerceEvent.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BNCServerRequest.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BNCServerInterface.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BNCServerResponse.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BNCPreferenceHelper.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BNCNetworkServiceProtocol.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BNCAvailability.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BNCConfig.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BNCDebug.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BNCError.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BNCLinkCache.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BNCLinkData.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BNCLog.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BNCServerRequestQueue.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BranchActivityItemProvider.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BranchConstants.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BranchDeepLinkingController.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BranchEvent.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BranchUniversalObject.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BranchLinkProperties.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BranchDelegate.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BranchShareLink.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BranchView.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/BranchViewHandler.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Branch/UIViewController+Branch.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/Api/Standalone/Branch/NSObject+RNBranch.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/Api/Standalone/Branch/RNBranchProperty.h

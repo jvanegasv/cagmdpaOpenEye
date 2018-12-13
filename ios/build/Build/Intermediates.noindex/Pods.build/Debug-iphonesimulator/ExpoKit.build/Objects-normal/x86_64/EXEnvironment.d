@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/Kernel/Environment/EXEnvironment.m \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/Analytics/EXAnalytics.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/Kernel/Environment/EXBuildConstants.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelUtil.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/CocoaLumberjack/CocoaLumberjack.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/CocoaLumberjack/DDLog.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/CocoaLumberjack/DDLegacyMacros.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/CocoaLumberjack/DDLogMacros.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/CocoaLumberjack/DDAssertMacros.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/CocoaLumberjack/DDASLLogCapture.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/CocoaLumberjack/DDASLLogger.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/CocoaLumberjack/DDTTYLogger.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/CocoaLumberjack/DDFileLogger.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/CocoaLumberjack/DDOSLogger.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/ExpoKit/ExpoKit.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/Kernel/Environment/EXEnvironment.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/Internal/Test/EXTest.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/React/React/RCTBridgeModule.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/React/React/RCTDefines.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/Crashlytics/Crashlytics/Crashlytics.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSAttributes.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSLogging.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSReport.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSStackFrame.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/Crashlytics/Crashlytics/Answers.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/Crashlytics/Crashlytics/ANSCompatibility.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/React/React/RCTUtils.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/React/React/RCTAssert.h

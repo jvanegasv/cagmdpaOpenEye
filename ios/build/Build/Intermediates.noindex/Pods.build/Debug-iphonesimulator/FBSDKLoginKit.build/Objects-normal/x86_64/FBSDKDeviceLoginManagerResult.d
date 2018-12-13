@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.m \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Target\ Support\ Files/FBSDKLoginKit/FBSDKLoginKit-prefix.pch \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKDeviceLoginManagerResult+Internal.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCoreKit.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCopying.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMacros.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppEvents.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKApplicationDelegate.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKButton.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKConstants.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequest.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKSettings.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKTestUsersManager.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKUtility.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLink.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkTarget.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkNavigation.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkResolving.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkResolver.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/Bolts/BFAppLinkResolving.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkReturnToRefererController.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkReturnToRefererView.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkUtility.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMeasurementEvent.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMutableCopying.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKProfile.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKProfilePictureView.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKURL.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKWebViewAppLinkResolver.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.h

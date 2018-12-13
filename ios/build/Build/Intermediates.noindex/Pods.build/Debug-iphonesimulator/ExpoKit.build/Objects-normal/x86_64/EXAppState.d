@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/Internal/EXAppState.m \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/Internal/EXAppState.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/React/React/RCTEventEmitter.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/React/React/RCTBridge.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/React/React/RCTBridgeDelegate.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/React/React/RCTJavaScriptLoader.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/React/React/RCTDefines.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/React/React/RCTBridgeModule.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/React/React/RCTFrameUpdate.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/React/React/RCTInvalidating.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/UniversalModules/EXModuleRegistryBinding.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/EXCore/EXModuleRegistry.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/EXCore/EXInternalModule.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/EXCore/EXDefines.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/EXCore/EXExportedModule.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/EXCore/EXViewManager.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/EXCore/EXModuleRegistryDelegate.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/Internal/EXScopedModuleRegistry.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/ScopedModule/EXScopedBridgeModule.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/EXCore/EXAppLifeCycleService.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/EXCore/EXAppLifecycleListener.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/React/React/RCTAssert.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/React/React/RCTEventDispatcher.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Public/React/React/RCTUtils.h

@@ -1,0 +1,39 @@
+dependencies: \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputShadowView.m \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Target\ Support\ Files/React/React-prefix.pch \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputShadowView.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/React/Views/RCTView.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/jorgevanegas/projects/react-native/cagmdpaOpenEye/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h
